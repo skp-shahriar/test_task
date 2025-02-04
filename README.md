@@ -48,5 +48,5 @@ A web-based application for creating, managing events, and handling attendee reg
 
 1. Clone repository:
    ```bash
-   git clone https://github.com/yourusername/event-management-system.git
+   git clone https://github.com/skp-shahriar/test_task.git
    ```
