@@ -4,7 +4,7 @@ A web-based application for creating, managing events, and handling attendee reg
 
 **Live Demo:** [http://ollyo-ems.infy.uk/public/login.php](http://ollyo-ems.infy.uk/public/login.php)
 
-# Credentials
+### Credentials
 
 - Username: john_doe
 - Password: 12345678
