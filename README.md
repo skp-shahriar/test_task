@@ -6,8 +6,8 @@ A web-based application for creating, managing events, and handling attendee reg
 
 # Credentials
 
--Username: john_doe
--Password: 12345678
+- Username: john_doe
+- Password: 12345678
 
 ## Features
 
